@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+instance/
+.env
+*.db
+
+# Node
+node_modules/
+build/
+
+# VSCode
+.vscode/
+
+# Mac
+.DS_Store
